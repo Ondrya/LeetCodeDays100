@@ -6,7 +6,7 @@
 
 | # | Problem | Link | Est. Time | Status |
 |---|---------|------|-----------|--------|
-| 1 | Two Sum | [Link](https://leetcode.com/problems/two-sum/) | 1h | ☐ |
+| 1 | Two Sum | [Link](https://leetcode.com/problems/two-sum/) | 1h | [x] |
 | 2 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | 1.5h | ☐ |
 | 3 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | 1h | ☐ |
 | 4 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | 1h | ☐ |
