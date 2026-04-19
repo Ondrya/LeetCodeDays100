@@ -10,8 +10,8 @@
 | 2  | Add Two Numbers                     | [Link](https://leetcode.com/problems/add-two-numbers/)                     | 1.5h      | [Link](./Period_01/add-two-numbers/add-two-numbers.cs) | ✅     |
 | 3  | Reverse Integer                     | [Link](https://leetcode.com/problems/reverse-integer/)                     | 1h        | [Link](./Period_01/reverse-integer/solution-best.py)   | ✅     |
 | 4  | Palindrome Number                   | [Link](https://leetcode.com/problems/palindrome-number/)                   | 1h        | [Link](./Period_01/palindrome-number/v1.py)            | ✅     |
-| 5  | Plus One                            | [Link](https://leetcode.com/problems/plus-one/)                            | 1h        | [Link](./Period_01/plus-one/v1.py)            | ✅     |
-| 6  | Sqrt(x)                             | [Link](https://leetcode.com/problems/sqrtx/)                               | 1h        |                                                     | ☐     |
+| 5  | Plus One                            | [Link](https://leetcode.com/problems/plus-one/)                            | 1h        | [Link](./Period_01/plus-one/v1.py)                     | ✅     |
+| 6  | Sqrt(x)                             | [Link](https://leetcode.com/problems/sqrtx/)                               | 1h        | [Link](./Period_01/sqrtx/)                     | ✅     |
 | 7  | Pow(x, n)                           | [Link](https://leetcode.com/problems/powx-n/)                              | 1h        |                                                     | ☐     |
 | 8  | Merge Sorted Array                  | [Link](https://leetcode.com/problems/merge-sorted-array/)                  | 1h        |                                                     | ☐     |
 | 9  | Remove Duplicates from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1h        |                                                     | ☐     |
