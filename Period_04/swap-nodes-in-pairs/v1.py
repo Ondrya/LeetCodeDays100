@@ -1,14 +1,32 @@
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 from typing import Optional
 
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # реализовать
-        pass
+        # Создаем фиктивный узел перед головой для упрощения
+        dummy = ListNode(0)
+        dummy.next = head
+        prev = dummy
+        
+        while prev.next and prev.next.next:
+            # Определяем узлы для обмена
+            first = prev.next
+            second = prev.next.next
+            
+            # Меняем местами
+            first.next = second.next
+            second.next = first
+            prev.next = second
+            
+            # Перемещаем prev на следующий узел
+            prev = first
+        
+        return dummy.next
 
 
 # Вспомогательная функция для преобразования списка в связный список (для тестов)
