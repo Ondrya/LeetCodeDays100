@@ -61,8 +61,8 @@
 | 2  | Remove Nth Node From End of List        | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)        | 1h        | [Link](./Period_04/remove-nth-node-from-end-of-list/readme.md) | ✅     |
 | 3  | Reverse Linked List                     | [Link](https://leetcode.com/problems/reverse-linked-list/)                     | 1h        | [Link](./Period_04/reverse-linked-list/v1.py)                  | ✅     |
 | 4  | Swap Nodes in Pairs                     | [Link](https://leetcode.com/problems/swap-nodes-in-pairs/)                     | 1h        | [Link](./Period_04/swap-nodes-in-pairs/v1.py)                  | ✅     |
-| 5  | Linked List Cycle                       | [Link](https://leetcode.com/problems/linked-list-cycle/)                       | 1h        | [Link](./Period_04/linked-list-cycle/v1.py)                  | ✅     |
-| 6  | Intersection of Two Linked Lists        | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)        | 1h        |                                                             | ☐     |
+| 5  | Linked List Cycle                       | [Link](https://leetcode.com/problems/linked-list-cycle/)                       | 1h        | [Link](./Period_04/linked-list-cycle/v1.py)                    | ✅     |
+| 6  | Intersection of Two Linked Lists        | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)        | 1h        | [Link](./Period_04/intersection-of-two-linked-lists/v1.py)                    | ✅     |
 | 7  | Add Two Numbers II                      | [Link](https://leetcode.com/problems/add-two-numbers-ii/)                      | 1.5h      |                                                             | ☐     |
 | 8  | Reorder List                            | [Link](https://leetcode.com/problems/reorder-list/)                            | 1.5h      |                                                             | ☐     |
 | 9  | Copy List with Random Pointer           | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/)           | 2h        |                                                             | ☐     |
