@@ -64,8 +64,8 @@
 | 5  | Linked List Cycle                       | [Link](https://leetcode.com/problems/linked-list-cycle/)                       | 1h        | [Link](./Period_04/linked-list-cycle/v1.py)                    | ✅     |
 | 6  | Intersection of Two Linked Lists        | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)        | 1h        | [Link](./Period_04/intersection-of-two-linked-lists/v1.py)     | ✅     |
 | 7  | Add Two Numbers II                      | [Link](https://leetcode.com/problems/add-two-numbers-ii/)                      | 1.5h      | [Link](./Period_04/intersection-of-two-linked-lists/v1.py)     | ✅     |
-| 8  | Reorder List                            | [Link](https://leetcode.com/problems/reorder-list/)                            | 1.5h      | [Link](./Period_04/reorder-list/v1.py)     | ✅     |
-| 9  | Copy List with Random Pointer           | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/)           | 2h        |                                                             | ☐     |
+| 8  | Reorder List                            | [Link](https://leetcode.com/problems/reorder-list/)                            | 1.5h      | [Link](./Period_04/reorder-list/v1.py)                         | ✅     |
+| 9  | Copy List with Random Pointer           | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/)           | 2h        | [Link](./Period_04/copy-list-with-random-pointer/v1.py)                         | ✅     |
 | 10 | Flatten a Multilevel Doubly Linked List | [Link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | 2h        |                                                             | ☐     |
 
 ---
